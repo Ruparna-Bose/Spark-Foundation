@@ -1,2 +1,2 @@
 # Spark-Foundation
-SPARK FOUNDATION  Simple Linear Regression
+SPARK FOUNDATION TASKS
